@@ -14,7 +14,6 @@
 // @downloadURL https://raw.githubusercontent.com/Mottie/Github-userscripts/master/github-issue-show-status.user.js
 // @supportURL  https://github.com/Mottie/GitHub-userscripts/issues
 // ==/UserScript==
-
 (() => {
 	"use strict";
 

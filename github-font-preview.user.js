@@ -20,7 +20,6 @@
 // @downloadURL https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-font-preview.user.js
 // @supportURL  https://github.com/Mottie/GitHub-userscripts/issues
 // ==/UserScript==
-
 /* global opentype */
 (() => {
 	"use strict";

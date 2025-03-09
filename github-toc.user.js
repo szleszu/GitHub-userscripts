@@ -24,7 +24,6 @@
 // @downloadURL https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-toc.user.js
 // @supportURL  https://github.com/Mottie/GitHub-userscripts/issues
 // ==/UserScript==
-
 /* global $ $$ on addClass removeClass */
 (async () => {
 	"use strict";
